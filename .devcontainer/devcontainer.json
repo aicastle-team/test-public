@@ -1,0 +1,7 @@
+{
+    "name": "My Codespace Project",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "hostRequirements": {
+        "cpus": 16
+    }
+}
